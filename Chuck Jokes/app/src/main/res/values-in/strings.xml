@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChuckJokes</string>
+    <string name="title">Chuck Jokes</string>
+    <string name="text_jokes">Text Jokes</string>
+    <string name="search">Cari</string>
+    <string name="about_text">Aplikasi "Chuck Norris Jokes Generator" adalah alat yang menyediakan hiburan melalui lelucon acak yang berhubungan dengan Chuck Norris. Dengan aplikasi ini, pengguna dapat dengan mudah mendapatkan sentilan humor yang khas tentang kekuatan dan kejeniusan Chuck Norris. Setiap kali Anda membuka aplikasi, Anda akan disuguhkan dengan lelucon baru yang menampilkan karakteristik unik dari bintang aksi legendaris ini.</string>
+    <string name="about">Tentang</string>
+    <string name="language_settings">Pengaturan Bahasa</string>
+    <string name="notif1">Jangan lupa untuk membaca lelucon untuk membuat harimu lebih baik!</string>
+    <string name="notif2">Nikmatilah Lelucon Chuck harianmu SEKARANG!</string>
+    <string name="notif3">Baca dan tertawalah hari ini!</string>
+    <string name="jokes_favorite">Favorit</string>
+    <string name="no_data">Data Kosong</string>
+</resources>

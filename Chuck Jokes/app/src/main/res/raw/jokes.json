@@ -1,0 +1,19 @@
+{
+  "error": false,
+  "message": "success",
+  "count": 2,
+  "jokes": [
+    {
+      "icon_url": "https://example.com/icon1.png",
+      "id": "1",
+      "url": "https://example.com/joke1",
+      "value": "Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "icon_url": "https://example.com/icon2.png",
+      "id": "2",
+      "url": "https://example.com/joke2",
+      "value": "Did you hear about the mathematician who's afraid of negative numbers? He will stop at nothing to avoid them."
+    }
+  ]
+}

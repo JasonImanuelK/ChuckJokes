@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChuckJokes</string>
+    <string name="title">Chuck Jokes</string>
+    <string name="text_jokes">Text Jokes</string>
+    <string name="search">Cherche</string>
+    <string name="about_text">Lapplication "Chuck Norris Jokes Generator" est un outil qui offre du divertissement à travers des blagues générées aléatoirement liées à Chuck Norris. Avec cette application, les utilisateurs peuvent facilement accéder à des plaisanteries humoristiques mettant en avant la force légendaire et lesprit vif de Chuck Norris. À chaque ouverture de lapplication, une nouvelle blague mettant en avant les caractéristiques uniques de cette star de laction vous sera présentée.</string>
+    <string name="about">À propos</string>
+    <string name="language_settings">Paramètres de Langue</string>
+    <string name="notif1">N\'oubliez pas de lire une blague pour égayer votre journée!</string>
+    <string name="notif2">Profitez de vos blagues quotidiennes de Chuck dès maintenant!</string>
+    <string name="notif3">Lisez et riez aujourd\'hui!</string>
+    <string name="jokes_favorite">Préféré</string>
+    <string name="no_data">Dataé Gé</string>
+</resources>
